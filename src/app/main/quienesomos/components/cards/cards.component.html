@@ -1,0 +1,15 @@
+<article style="display: flex;margin-right: 20px; margin-left: 20px;
+margin-top: 20px; margin-bottom: 20px;" *ngFor="let d of data">
+    <div class="cardd" id="cardd">
+        <img class="pp" [src]="d.img">
+        <div style="text-align: center;">
+            <h3 class="cargo">{{d.cargo}}</h3>
+            <h5 class="nombre">{{d.nombre | titlecase}}</h5>
+            <h5 class="descripcion">{{d.description | titlecase}}</h5>
+            <h6 class="correo">{{d.correo}}</h6>
+            <p></p>
+            <h5 class="carrera">{{d.carrer}}
+            </h5>
+        </div>
+    </div>
+</article>

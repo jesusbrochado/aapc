@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="880" viewBox="0 0 1800 880">
+  <defs>
+    <filter id="fondoverde_asesores-a" color-interpolation-filters="auto">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.976471 0 0 0 0 0.984314 0 0 0 0 0.905882 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#fondoverde_asesores-a)" opacity=".795" transform="translate(185 -1842)">
+    <path fill="#FAFAFA" d="M180,138.947368 C540,-46.3157895 1260,-46.3157895 1620,138.947368 C1860,262.45614 1860,509.473684 1620,880 L180,880 C-60,509.473684 -60,262.45614 180,138.947368 Z" transform="matrix(1 0 0 -1 -185 2722)"/>
+  </g>
+</svg>

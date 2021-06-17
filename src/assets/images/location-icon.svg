@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="20" viewBox="0 0 15 20">
+  <defs>
+    <filter id="web_24px-copy-2-a" color-interpolation-filters="auto">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.588235 0 0 0 0 0.690196 0 0 0 0 0.188235 0 0 0 1.000000 0"/>
+    </filter>
+    <path id="web_24px-copy-2-b" d="M12.4,2 C8.401,2 5.16666667,5.13 5.16666667,9 C5.16666667,14.25 12.4,22 12.4,22 C12.4,22 19.6333333,14.25 19.6333333,9 C19.6333333,5.13 16.399,2 12.4,2 Z M12.4,11.5 C10.974,11.5 9.81666667,10.38 9.81666667,9 C9.81666667,7.62 10.974,6.5 12.4,6.5 C13.826,6.5 14.9833333,7.62 14.9833333,9 C14.9833333,10.38 13.826,11.5 12.4,11.5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#web_24px-copy-2-a)" transform="translate(-5 -2)">
+    <mask id="web_24px-copy-2-c" fill="#fff">
+      <use xlink:href="#web_24px-copy-2-b"/>
+    </mask>
+    <g fill="#000" fill-rule="nonzero" mask="url(#web_24px-copy-2-c)">
+      <rect width="24.8" height="24"/>
+    </g>
+  </g>
+</svg>
